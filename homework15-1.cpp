@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    int number; //zmienna przechowujaca wartosc licznbowa
+    int number; //zmienna przechowujaca wartosc liczbowa
     bool numberCheck; //zmienna okreslajaca, czy wpisano liczbe
 
     do
